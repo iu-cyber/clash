@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,onetimesecret.com
   - DOMAIN-SUFFIX,xsy01.com
   - DOMAIN-SUFFIX,xsy02.com
+  - DOMAIN-SUFFIX,xsy03.com
   - DOMAIN-SUFFIX,xsyss.com
   - DOMAIN-SUFFIX,cn.cdn-news.org
   
