@@ -1,4 +1,3 @@
-# Windows 手机连接修复 (必须直连)
 payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
@@ -12,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,windowsphone.com
   - DOMAIN-SUFFIX,windowssearch.com
   - DOMAIN-SUFFIX,windowsupdate.com
+
 
 
 
