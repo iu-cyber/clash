@@ -9,13 +9,14 @@ payload:
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,msauth.net
-  - DOMAIN-SUFFIX,microsoft.com  # 注意：这可能会影响 Copilot 使用
+  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com  # 注意：这可能会影响 Copilot 使用
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,phonefactor.net
   - DOMAIN-SUFFIX,windowsphone-int.com
   - DOMAIN-SUFFIX,windowsphone.com
   - DOMAIN-SUFFIX,windowssearch.com
   - DOMAIN-SUFFIX,windowsupdate.com
+
 
 
 
