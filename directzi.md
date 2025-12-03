@@ -2,6 +2,7 @@
 
 
 payload:
+
   #手机连接windows
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
@@ -15,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,windowsphone.com
   - DOMAIN-SUFFIX,windowssearch.com
   - DOMAIN-SUFFIX,windowsupdate.com
+
 
 
 
