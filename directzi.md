@@ -2,7 +2,8 @@
 
 
 payload:
-
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflared.com,DIRECT
   #手机连接windows
   - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
   - DOMAIN-SUFFIX,dcg.microsoft.com
@@ -11,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,windowsphone.com
   - DOMAIN-SUFFIX,windowssearch.com
   - DOMAIN-SUFFIX,windowsupdate.com
+
 
 
 
