@@ -1,1 +1,2 @@
-sb.scorecardresearch.com
+payload:
+ - DOMAIN-SUFFIX,sb.scorecardresearch.com
