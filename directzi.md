@@ -1,4 +1,5 @@
 #自用补充，用于直连
+
 payload:
  - DOMAIN-SUFFIX,argotunnel.com
  - DOMAIN-SUFFIX,cloudflared.com #手机连接windows 
