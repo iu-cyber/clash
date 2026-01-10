@@ -7,4 +7,5 @@ payload:
   - DOMAIN-SUFFIX,xsy02.com
   - DOMAIN-SUFFIX,xsyss.com
   - DOMAIN-SUFFIX,cn.cdn-news.org
+  - DOMAIN-SUFFIX,resend.com
   
