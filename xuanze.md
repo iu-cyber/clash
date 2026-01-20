@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,xsyss.com
   - DOMAIN-SUFFIX,cn.cdn-news.org
   - DOMAIN-SUFFIX,resend.com
+  - DOMAIN-SUFFIX,cloudns.net
   
