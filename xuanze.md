@@ -1,10 +1,6 @@
 #自用补充，用于节点选择
 
 payload:
-  - DOMAIN-SUFFIX,weibocdn.com
-  - DOMAIN-KEYWORD,weibo
-  - DOMAIN-SUFFIX,weibo.cn
-  - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,onetimesecret.com
   - DOMAIN-SUFFIX,xsy01.com
