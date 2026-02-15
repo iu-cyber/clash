@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,cn.cdn-news.org
   - DOMAIN-SUFFIX,resend.com
   - DOMAIN-SUFFIX,cloudns.net
-  
+  - DOMAIN-SUFFIX,leeapk.com
