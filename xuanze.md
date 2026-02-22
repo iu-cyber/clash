@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,resend.com
   - DOMAIN-SUFFIX,cloudns.net
   - DOMAIN-SUFFIX,leeapk.com
+  - DOMAIN-SUFFIX,unicode-explorer.com
