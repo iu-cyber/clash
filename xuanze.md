@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,cloudns.net
   - DOMAIN-SUFFIX,leeapk.com
   - DOMAIN-SUFFIX,unicode-explorer.com
+  - DOMAIN-SUFFIX,ping0.cc
