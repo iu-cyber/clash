@@ -8,3 +8,6 @@ payload:
   - DOMAIN-SUFFIX,yunque360.com
   - DOMAIN-SUFFIX,app.ipdatacloud.com
   - DOMAIN-SUFFIX,iapi.yunque360.com
+  - DOMAIN-SUFFIX,smtp.qq.com
+  - DOMAIN-SUFFIX,smtp.163.com
+  - DOMAIN-SUFFIX,smtp.yeah.net
