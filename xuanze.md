@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,leeapk.com
   - DOMAIN-SUFFIX,unicode-explorer.com
   - DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,leeapks.com
