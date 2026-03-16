@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,leeapks.com
   - DOMAIN-SUFFIX,continuwuity.org
+  - DOMAIN-SUFFIX,maubot.xyz
