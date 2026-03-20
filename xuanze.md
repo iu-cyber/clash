@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,maubot.xyz
   - DOMAIN-SUFFIX,quad9.net
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,mullvad.net
