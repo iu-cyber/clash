@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,quad9.net
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,o-datamap.oall.com
