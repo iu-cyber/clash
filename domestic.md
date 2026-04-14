@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,smtp.qq.com
   - DOMAIN-SUFFIX,smtp.163.com
   - DOMAIN-SUFFIX,smtp.yeah.net
+  - DOMAIN-SUFFIX,longyuezuche.top
