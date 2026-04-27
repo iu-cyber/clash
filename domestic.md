@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,dyjiema.com
   - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-SUFFIX,sinajs.cn
