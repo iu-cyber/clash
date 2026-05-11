@@ -1,6 +1,7 @@
 #自用补充，用于节点选择
 
 payload:
+  - DOMAIN-SUFFIX,website-files.com
   - DOMAIN-SUFFIX,fotoncard.com
   - DOMAIN-SUFFIX,feiyangka.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
