@@ -19,3 +19,5 @@ payload:
   - DOMAIN-SUFFIX,maubot.xyz
   - DOMAIN-SUFFIX,mullvad.net
   - DOMAIN-SUFFIX,o-datamap.oall.com
+  - DOMAIN-SUFFIX,eva2.xyz
+  - DOMAIN-SUFFIX,qingsiyun.top
