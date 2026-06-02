@@ -100,6 +100,10 @@ payload:
   - DOMAIN-SUFFIX,aq.qq.com
   - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
   - DOMAIN-SUFFIX,btrace.qq.com
+  - DOMAIN-SUFFIX,rmonitor.qq.com
+  - DOMAIN-SUFFIX,h.trace.qq.com
+  - DOMAIN-SUFFIX,aeventlog.beacon.qq.com
+  - DOMAIN-SUFFIX,pubstatic.b0.upaiyun.com
   - DOMAIN-SUFFIX,ynuf.alicdn.com
   - DOMAIN-SUFFIX,asg.alibaba.com
   - DOMAIN-SUFFIX,amdc.m.taobao.com
