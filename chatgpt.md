@@ -34,7 +34,8 @@ payload:
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
   - IP-ASN,20473,no-resolve
-  - IP-CIDR,108.160.169.54/32,no-resolve
-  - IP-CIDR,34.160.81.0/32,no-resolve
-  - IP-CIDR,216.239.32.223/32,no-resolve
-  - IP-CIDR,50.87.93.246/32,no-resolve
+  - IP-CIDR,108.160.169.54/24,no-resolve
+  - IP-CIDR,34.160.81.0/24,no-resolve
+  - IP-CIDR,216.239.32.223/24,no-resolve
+  - IP-CIDR,50.87.93.246/24,no-resolve
+
