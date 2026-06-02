@@ -22,4 +22,5 @@ payload:
   - DOMAIN-SUFFIX,eva2.xyz
   - DOMAIN-SUFFIX,qingsiyun.top
   - IP-CIDR,77.88.21.125/32,no-resolve
-  - IP-CIDR,142.250.196.206,no-resolve
+  - IP-CIDR,142.250.196.206/16,no-resolve
+
