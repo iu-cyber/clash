@@ -21,6 +21,9 @@ payload:
   - DOMAIN-SUFFIX,o-datamap.oall.com
   - DOMAIN-SUFFIX,eva2.xyz
   - DOMAIN-SUFFIX,qingsiyun.top
+  - DOMAIN-SUFFIX,controld.com
+  - DOMAIN-SUFFIX,quad9.net
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - IP-CIDR,77.88.21.125/24,no-resolve
   - IP-CIDR,142.250.196.206/24,no-resolve
 
