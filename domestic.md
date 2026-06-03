@@ -16,4 +16,5 @@ payload:
   - DOMAIN-SUFFIX,smtp.yeah.net
   - DOMAIN-SUFFIX,longyuezuche.top
   - DOMAIN-SUFFIX,icloudcity.com
+  - DOMAIN-SUFFIX,resend.com
   - IP-CIDR,8.140.53.147/32
