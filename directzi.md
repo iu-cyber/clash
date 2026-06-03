@@ -9,7 +9,7 @@ payload:
  - DOMAIN-SUFFIX,windowsphone.com
  - DOMAIN-SUFFIX,windowssearch.com
  - DOMAIN-SUFFIX,windowsupdate.com
-
+ - DOMAIN-SUFFIX,weather-server.allawntech.com
 
 
 
