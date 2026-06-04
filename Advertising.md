@@ -94,8 +94,7 @@ payload:
   - DOMAIN-SUFFIX,fanzha.miit.gov.cn
   - DOMAIN-SUFFIX,anti-fraud.org.cn
   - DOMAIN-SUFFIX,fraud.gov.cn
-  - DOMAIN-KEYWORD,fanzha
-  - DOMAIN-KEYWORD,antifraud
+  - DOMAIN-SUFFIX,gjfzpt.cn
   - DOMAIN-SUFFIX,urlsec.qq.com
   - DOMAIN-SUFFIX,aq.qq.com
   - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
