@@ -8,3 +8,4 @@ payload:
  - DOMAIN-SUFFIX,windowssearch.com
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,weather-server.allawntech.com
+ - DOMAIN-SUFFIX,jichisms.com
