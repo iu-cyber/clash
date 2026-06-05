@@ -17,4 +17,5 @@ payload:
   - DOMAIN-SUFFIX,longyuezuche.top
   - DOMAIN-SUFFIX,icloudcity.com
   - DOMAIN-SUFFIX,resend.com
+  - DOMAIN-SUFFIX,jichisms.com
   - IP-CIDR,8.140.53.147/32
