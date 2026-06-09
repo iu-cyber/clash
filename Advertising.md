@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,huayiyuan.com
   - DOMAIN-SUFFIX,robot301.net
   - DOMAIN-SUFFIX,roboticsurg301.net
+  - IP-CIDR,49.7.118.13/32,no-resolve
   - DOMAIN-SUFFIX,scncrc.com
   - DOMAIN-SUFFIX,shiyanma.org.cn
   - DOMAIN-SUFFIX,sqpx.org
