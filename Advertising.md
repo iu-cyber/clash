@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,histat.com
   - DOMAIN-SUFFIX,aibreeno.com
