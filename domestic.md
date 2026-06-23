@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,sinaimg.cn
   - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,sina.cn
   - DOMAIN-SUFFIX,sina.com.cn
   - DOMAIN-SUFFIX,dall.com.cn
   - DOMAIN-SUFFIX,ipdatacloud.com
