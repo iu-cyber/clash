@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,sinajs.cn
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,sinaimg.cn
+  - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,sina.com.cn
   - DOMAIN-SUFFIX,dall.com.cn
   - DOMAIN-SUFFIX,ipdatacloud.com
   - DOMAIN-SUFFIX,yunque360.com
