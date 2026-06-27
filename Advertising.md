@@ -58,8 +58,6 @@ payload:
   - DOMAIN-SUFFIX,wanyol.com
   - DOMAIN-SUFFIX,xiaobool.com
   - DOMAIN-SUFFIX,zeku.com
-  - DOMAIN-KEYWORD,analysis
-  - DOMAIN-KEYWORD,telemetry
   - DOMAIN-SUFFIX,stat.heytapmobile.com
   - DOMAIN-SUFFIX,stats.heytapmobile.com
   - DOMAIN-SUFFIX,statistics.heytapmobile.com
@@ -187,4 +185,8 @@ payload:
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.net.cn
   - DOMAIN-SUFFIX,icloudapple.cn
-
+  - DOMAIN-SUFFIX,360.cn
+  - DOMAIN-SUFFIX,360.com
+  - DOMAIN-SUFFIX,audid-api.taobao.com
+  - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
+  - dns.weixin.qq.com.cn
