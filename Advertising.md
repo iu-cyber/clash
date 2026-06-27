@@ -189,4 +189,4 @@ payload:
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,audid-api.taobao.com
   - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
-  - dns.weixin.qq.com.cn
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
