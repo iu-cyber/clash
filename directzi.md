@@ -10,7 +10,7 @@ payload:
  - DOMAIN-SUFFIX,windowssearch.com
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,weather-server.allawntech.com
-
+ - IP-CIDR,13.107.6.158/24,no-resolve
 
 
 
