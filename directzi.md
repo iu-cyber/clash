@@ -2,6 +2,7 @@
 
 payload:
 #手机连接windows 
+ - DOMAIN-SUFFIX,swdist.apple.com
  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
  - DOMAIN-SUFFIX,dcg.microsoft.com
  - DOMAIN-SUFFIX,service.signalr.net
@@ -12,6 +13,7 @@ payload:
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,weather-server.allawntech.com
  - IP-CIDR,13.107.6.158/24,no-resolve
+ - IP-CIDR,69.8.133.152/24,no-resolve
 
 
 
