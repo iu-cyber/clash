@@ -23,5 +23,3 @@ payload:
   - DOMAIN-SUFFIX,twilio.com
   - IP-CIDR,120.253.250.197/24,no-resolve
   - IP-CIDR,77.88.21.125/24,no-resolve
-  - IP-CIDR,142.250.196.206/24,no-resolve
-
