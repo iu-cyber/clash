@@ -1,6 +1,7 @@
 #自用补充，用于节点选择
 
 payload:
+  - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,hubspotonwebflow.com
   - DOMAIN-SUFFIX,website-files.com
   - DOMAIN-SUFFIX,fotoncard.com
