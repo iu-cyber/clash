@@ -24,6 +24,4 @@ payload:
   - DOMAIN-SUFFIX,resend.com
   - DOMAIN-SUFFIX,jichisms.com
   - DOMAIN-SUFFIX,controld.com
-  - DOMAIN-SUFFIX,quad9.net
-  - DOMAIN-SUFFIX,cloudflare-dns.com
   - IP-CIDR,8.140.53.147/32
