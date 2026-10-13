@@ -23,5 +23,4 @@ payload:
   - DOMAIN-SUFFIX,icloudcity.com
   - DOMAIN-SUFFIX,resend.com
   - DOMAIN-SUFFIX,jichisms.com
-  - DOMAIN-SUFFIX,controld.com
   - IP-CIDR,8.140.53.147/32
