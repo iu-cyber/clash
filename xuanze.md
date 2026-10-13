@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,dns.quad9.net
   - DOMAIN-SUFFIX,controld.com
   - DOMAIN-SUFFIX,dns.google
-  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,hubspotonwebflow.com
   - DOMAIN-SUFFIX,website-files.com
   - DOMAIN-SUFFIX,fotoncard.com
