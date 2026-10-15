@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,histat.com
+  - DOMAIN-SUFFIX,a.nel.cloudflare.com
   - DOMAIN-SUFFIX,aibreeno.com
   - DOMAIN-SUFFIX,allawnfs.com
   - DOMAIN-SUFFIX,allawno.com
