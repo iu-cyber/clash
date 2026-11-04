@@ -24,5 +24,5 @@ payload:
   - DOMAIN-SUFFIX,resend.com
   - DOMAIN-SUFFIX,jichisms.com
   - DOMAIN-SUFFIX,easebar.com
-  - DOMAIN-SUFFIX,nie.easebar.com
+  - DOMAIN-SUFFIX,nie.netease.com
   - IP-CIDR,8.140.53.147/32
