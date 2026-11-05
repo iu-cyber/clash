@@ -1,5 +1,4 @@
 payload:
-  # --- 1. 微软支付网关与商城结算核心（最关键：杜绝被后续规则分流到香港）---
   - DOMAIN,purchase.mp.microsoft.com
   - DOMAIN,store.mp.microsoft.com
   - DOMAIN,displaycatalog.mp.microsoft.com
@@ -7,8 +6,6 @@ payload:
   - DOMAIN,account.microsoft.com
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,mpnevolution.com
-
-  # --- 2. 账号与身份认证鉴权（决定购买时的身份属地与 Token）---
   - DOMAIN,login.live.com
   - DOMAIN,logincdn.msauth.net
   - DOMAIN,login.microsoftonline.com
@@ -18,8 +15,6 @@ payload:
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,msidentity.com
-
-  # --- 3. Xbox 核心系统与商城界面（均为轻量 API，无大流量）---
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN-SUFFIX,xbox.com
