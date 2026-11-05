@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,xbox.ipv6.microsoft.com
   - DOMAIN,purchase.mp.microsoft.com
   - DOMAIN,store.mp.microsoft.com
   - DOMAIN,displaycatalog.mp.microsoft.com
