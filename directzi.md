@@ -4,7 +4,6 @@ payload:
 #手机连接windows 
  - DOMAIN-SUFFIX,luo1117.top
  - DOMAIN-SUFFIX,lllo.top
- - DOMAIN-SUFFIX,swdist.apple.com
  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
  - DOMAIN-SUFFIX,dcg.microsoft.com
  - DOMAIN-SUFFIX,service.signalr.net
@@ -16,7 +15,12 @@ payload:
  - DOMAIN-SUFFIX,weather-server.allawntech.com
  - IP-CIDR,13.107.6.158/24,no-resolve
  - IP-CIDR,69.8.133.152/32,no-resolve
-
+ - DOMAIN,asset1.xbox.com
+ - DOMAIN,asset2.xbox.com
+ - DOMAIN-SUFFIX,assets1.xboxlive.com
+ - DOMAIN-SUFFIX,assets2.xboxlive.com
+ - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+ - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
 
 
 
